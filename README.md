@@ -1,3 +1,10 @@
+# ScreenShots
+<img width="1554" alt="Screenshot 2023-07-16 at 12 29 37 AM" src="https://github.com/JindalAbhay05/Manufac-Assignment/assets/49905759/aaeb132d-b61b-4b8c-9be4-199d39243aae">
+
+
+<img width="1548" alt="Screenshot 2023-07-16 at 12 36 11 AM" src="https://github.com/JindalAbhay05/Manufac-Assignment/assets/49905759/64bf28a9-9f6c-4aeb-beef-367ed82abb7a">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
