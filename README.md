@@ -1,9 +1,7 @@
 # ScreenShots
-<img width="1554" alt="Screenshot 2023-07-16 at 12 29 37 AM" src="https://github.com/JindalAbhay05/Manufac-Assignment/assets/49905759/aaeb132d-b61b-4b8c-9be4-199d39243aae">
+<img width="1544" alt="Screenshot 2023-07-17 at 10 08 42 PM 1" src="https://github.com/JindalAbhay05/Manufac-Assignment/assets/49905759/cd7e6786-9929-4439-a13f-de1035a182eb">
 
-
-<img width="1548" alt="Screenshot 2023-07-16 at 12 36 11 AM" src="https://github.com/JindalAbhay05/Manufac-Assignment/assets/49905759/64bf28a9-9f6c-4aeb-beef-367ed82abb7a">
-
+<img width="1546" alt="Screenshot 2023-07-17 at 10 12 14 PM" src="https://github.com/JindalAbhay05/Manufac-Assignment/assets/49905759/743f2e99-1345-4ef0-8f5a-4f72873a4bb1">
 
 # Getting Started with Create React App
 
